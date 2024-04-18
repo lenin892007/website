@@ -1,0 +1,12 @@
+function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
+  def goals(laLigaGoals, copaDelReyGoals, championsLeagueGoals):
+  return laLigaGoals + copaDelReyGoals + championsLeagueGoals;
+}
+
+
+function makeNegative(num) {
+  if(num > 0 )
+{return num * -1}
+else
+{return num}
+}
