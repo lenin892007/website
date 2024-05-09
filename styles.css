@@ -1,20 +1,20 @@
 body {
     box-sizing: border-box;
 }
-one {
-    width:50px;
-    height:50px;
+.one {
+    width:20px;
+    height:20px;
 }
-two {
-  width:50px;
-    height:50px;
+.two {
+  width:20px;
+    height:20px;
 }
-three {
-  width:50px;
-    height:50px;
+.three {
+  width:20px;
+    height:20px;
 }
-four {
-  width:50px;
-    height:50px;
+.four {
+  width:20px;
+    height:20px;
 }
   
